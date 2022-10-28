@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Innocent Ekweogu and I’m a Software Engineer (Java).
 - 👀 I’m interested in software development
-- 🌱 I am highly exceptional, goal-oriented, and Avid problem solver with an excellent understanding of data structures and algorithms. I have Well-developed problem-    solving skills through critical and logical reasoning, excellent collaborative, communication, and interpersonal skills, and well-rounded in agile methodologies and  practices.
+- 🌱 I am a highly exceptional, goal-oriented, and Avid problem solver with an excellent understanding of data structures and algorithms. I have Well-developed problem-    solving skills through critical and logical reasoning, excellent collaborative, communication, and interpersonal skills, and well-rounded in agile methodologies and  practices.
 - 💞️ I’m looking to collaborate on interesting and open-source projects
 - 📫 How to reach me: email - innocentekweogu@gmail.com
 
